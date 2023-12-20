@@ -21,6 +21,8 @@ The AND gate is an electronic circuit that gives a high output (1) only if all i
 
 Y= A.B
 
+
+
 2) OR gate
 The OR gate is an electronic circuit that gives a high output (1) if one or more of its inputs are high. A plus (+) is used to show the OR operation.
 
@@ -51,22 +53,31 @@ The 'Exclusive-NOR' gate circuit does the opposite to the EX-OR gate. It will gi
 
 Y= A⊕B
 
-Procedure
+### Procedure
 Connect the supply (+5V) to the circuit
 Switch ON the main switch
 Press the switches for inputs “A” and “B”. The switch is ON state when 1 is pressed. The switch is OFF state when 0 is pressed.
 If the output is 1, then the bulb glows.
 Check all the gates following the same procedure.
-Program:
+### Program:
 /*
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: Shri Sai Aravind. R
+RegisterNumber:  23007461
 */
-Logic symbol & Truthtable
-RTL realization
-Output:
-RTL
+![Alt text](image.png)
+
+### Logic symbol & Truthtable
+
+![Alt text](image-2.png)
+
+### RTL
+
+![Alt text](image-1.png)
+
+### Waveform output
+
+![Alt text](image-3.png)
 
 Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
